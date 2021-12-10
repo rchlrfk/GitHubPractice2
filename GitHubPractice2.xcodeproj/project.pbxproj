@@ -14,6 +14,7 @@
 		F3D586612763B1260071CE42 /* GitHubPractice2.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F3D5865F2763B1260071CE42 /* GitHubPractice2.xcdatamodeld */; };
 		F3D586632763B1280071CE42 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F3D586622763B1280071CE42 /* Assets.xcassets */; };
 		F3D586662763B1280071CE42 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F3D586642763B1280071CE42 /* LaunchScreen.storyboard */; };
+		F3D5866E2763B1F00071CE42 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3D5866D2763B1F00071CE42 /* ViewController2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		F3D586622763B1280071CE42 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F3D586652763B1280071CE42 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F3D586672763B1280071CE42 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F3D5866D2763B1F00071CE42 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				F3D586562763B1260071CE42 /* AppDelegate.swift */,
 				F3D586582763B1260071CE42 /* SceneDelegate.swift */,
 				F3D5865A2763B1260071CE42 /* ViewController.swift */,
+				F3D5866D2763B1F00071CE42 /* ViewController2.swift */,
 				F3D5865C2763B1260071CE42 /* Main.storyboard */,
 				F3D586622763B1280071CE42 /* Assets.xcassets */,
 				F3D586642763B1280071CE42 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F3D5866E2763B1F00071CE42 /* ViewController2.swift in Sources */,
 				F3D586612763B1260071CE42 /* GitHubPractice2.xcdatamodeld in Sources */,
 				F3D5865B2763B1260071CE42 /* ViewController.swift in Sources */,
 				F3D586572763B1260071CE42 /* AppDelegate.swift in Sources */,
